@@ -1,0 +1,516 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#start1{
+    background: url("./images/trees1.png");
+    background-repeat: no-repeat;
+    height:70vh;
+    
+    
+}
+.logo{
+    position: relative;
+    left: 40vh;
+    font-size: 1.6rem;
+    color:white;
+}
+li{
+    display: inline;
+    list-style: none;
+    text-align: center;
+}
+li a{
+    margin-left: 3rem;
+    font-size:medium;
+    text-decoration: none;
+    color:white;
+    
+    
+}
+.items ul{
+    position: relative;
+    list-style: none;
+    text-decoration: none;
+    margin-left: 2rem;;
+    left: 60vh;
+    top: -2vh;
+}
+ul li a:hover{
+    color:yellow;
+    font-size: 1.2rem;;
+}
+.t{
+    position: relative;
+    font-size: 30px;
+    color: white;
+    top:20vh;
+    left:80vh;
+}
+.st{
+    position: relative;
+    color: white;
+    top:22vh;
+    left:80vh;
+}
+.learn1{
+    padding:10px;
+    position: relative;
+    top:24vh;
+    left:80vh;
+    background-color:purple;
+    color: aliceblue;
+
+}
+.learn2{
+    padding:10px;
+    position: relative;
+    top:24vh;
+    left:80vh;
+    background-color: purple;
+    color: aliceblue;
+
+}
+.learn1:hover{
+    background-color: yellow;
+    color:black;
+}
+.learn2:hover{
+    background-color:yellow;
+    color:black;
+}
+#dots{
+    display: inline;
+    position: relative;
+    top:40vh;
+    left: 10vh;
+}
+center{
+    margin-top: 2rem;
+}
+
+.box1{
+    display: flex;
+}
+.para1{
+    position: relative;
+    top: 10vh;
+    left: 50vh;
+}
+.umbrella{
+    position: relative;
+    left:50vh; 
+}
+#rrr{
+    font-size:1.5rem;
+}
+#u1{
+    height:30vh;
+}
+.s2items{
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+    margin-left: 60vh;
+}
+.ty{
+    font-size: 0.8rem;
+}
+.bell{
+    position:relative;
+    left:-10vh;
+}
+.message{
+    position: relative;
+    left:1vh;
+}
+.boxx{
+    position: relative;
+    left:12vh;
+}
+#bellimg{
+    position: relative;
+    left:7vh;
+    height: 5vh;
+    top: -2vh;
+}
+#messageimg{
+    position: relative;
+    left: 7vh;
+    height: 5vh;
+    top: -2vh;
+}
+#boxximg{
+    position: relative;
+    left: 8vh;
+    height:5vh;
+    top: -2vh;;
+}
+.slearn{
+    margin-top: 2vh;
+    margin-left: 3vh;
+    padding: 5px;
+    background-color: yellow;
+    
+}
+.slearn:hover{
+    background-color:purple;
+
+}
+#line{
+    width:60%;
+    margin-top: 6vh;
+    margin-left: 47vh;
+}
+#maz{
+    height: 50vh;
+    width:50vh;
+}
+#taskk{
+    height:50vh;
+    width:56vh;
+}
+#resu{
+    height:50vh;
+    width:50vh;
+}
+#webb{
+    height:50vh;
+    width:50vh;
+}
+.main3{
+    display: flex;
+    margin-top: 9vh;
+}
+.mazpara{
+    background-color: aliceblue;
+    padding: 3rem;
+}
+.taskpara{
+    background-color: rgba(255, 255, 0, 0.657);
+    padding: 3rem;
+}
+.respara{
+    background-color: rgba(128, 128, 128, 0.431);
+    padding: 3rem;
+}
+.webtpara{
+    background-color: aliceblue;
+    padding: 3rem;
+}
+.magzinebutton{
+    margin-top: 1vh;
+    padding:0.5rem;
+}
+.ta{
+    margin-top: 1vh;
+    padding:1rem;
+    background-color: purple;
+    color: white;
+}
+.res{
+    margin-top: 1vh;
+    padding:0.5rem;
+}
+.web{
+    margin-top: 1vh;
+    padding:0.5rem;
+}
+.main4{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+.standardplan{
+    position: relative;
+    left: -8vh;
+    padding: 5vh;
+    top: 1vh;
+}
+.buisnessplan{
+    position:relative;
+    padding: 5vh;
+}
+.premiumplan{
+    position: relative;
+    left: 4vh;
+    padding: 5vh;
+}
+.standard{
+    margin-top: 2vh;
+    padding: 0.6rem;
+    background-color: yellow;
+}
+.standard:hover{
+    background-color: purple;
+    color: white;
+}
+.main5{
+    display: flex;
+    height:50vh;
+    background-color: rgba(128, 0, 128, 0.657);
+    margin-top: 4rem;
+}
+.video1{
+    margin-top:14vh;
+    padding: 0vh 8vh;
+}
+#o{
+    position: relative;
+    top:-50vh;
+}
+.main5ka1{
+    display: flex;
+    justify-content: center;
+}
+.main5ka2{
+    display: flex;
+    justify-content: center;
+}
+.employee1{
+    padding: 3rem;
+}
+.employee2{
+    padding: 3rem;
+}
+.employee3{
+    padding: 3rem;
+}
+.employee4{
+    padding: 3rem;
+}
+.employee5{
+    padding: 3rem;
+}
+.employee6{
+    padding: 3rem;
+}
+#employe1{
+    height:30vh;
+    width:30vh;
+}
+#employe2{
+    height:30vh;
+    width:30vh;
+}
+#employe3{
+    height:30vh;
+    width:30vh;
+}
+#employe4{
+    height:30vh;
+    width:30vh;
+}
+#employe5{
+    height:30vh;
+    width:30vh;
+}
+#employe6{
+    height:30vh;
+    width:30vh;
+}
+.main5o{
+    margin-bottom: 2rem;
+}
+.main6{
+    height: 100vh;
+    background-color: aliceblue;
+}
+#topp{
+    position: relative;
+    top: 2rem;
+}
+#happyoffice{
+    width: 90vh;
+    height:60vh;
+}
+.happyofficeimg{
+    position: relative;
+    left: 60vh;
+    top: 10vh;
+}
+#slide-wrapper{
+    display: flex;
+    position: relative;
+    top:15vh;
+    left:56vh;
+    width: 100vh;
+    align-items: center;
+}
+#slider{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: hidden;
+    
+}
+.thumbnail{
+    width:10vh;
+    height:10vh;
+    padding: 10px;
+}
+#slideleft{
+    width:10vh;
+    height:10vh;
+}
+#slideleft:hover{
+    cursor: pointer;
+}
+#slideright{
+    width:10vh;
+    height:10vh;
+}
+#slideright:hover{
+    cursor: pointer;
+}
+.main7{
+    position: relative;
+    top: -4vh;
+    height:50vh;
+    background-image: url("/images/bridge.jpg");
+}
+.container1{
+    display: flex;
+    margin-left:74vh;
+    margin-top:12vh;
+}
+#bridetag{
+    position:relative;
+    top: 7vh;
+    opacity: 5;
+}
+#texttype{
+    position: relative;
+    width: 50vh;
+    height: 5vh;
+}
+#secondb{
+    position: relative;
+    height: 5vh;
+    left: 124vh;
+    top:3vh;
+    padding: 3px;
+    background-color: purple;
+    cursor: pointer;
+}
+.main88{
+    display: flex;
+    justify-content: center;
+    padding:10px;
+}
+#i1{
+    width: 40vh;
+    height:20vh;
+    padding: 30px;
+}
+#i2{
+    width: 40vh;
+    height:20vh;
+    padding:30px ;
+}
+#i3{
+    width: 40vh;
+    height:20vh;
+    padding: 30px;
+}
+.bv1{
+    width:50%;
+    margin-top: 10vh;
+}
+#bv1img{
+    width:100vh;
+}
+.main9{
+    display: flex;
+}
+.bv2{
+    margin-top: 10vh;
+    margin-left:-3.9vh;
+    background-color: yellow;
+    width:60% 
+}
+#move{
+    position: relative;
+    top: 5vh;
+    left: 6vh;
+}
+#n12{
+    position: relative;
+    top:16vh;
+    left: 3vh;
+}
+#n13{
+    position: relative;
+    top:18vh;
+    left:3vh;
+}
+#n14{
+    position: relative;
+    top:16vh;
+    left:3vh;
+}
+#t98{
+position: relative;
+width:40vh;
+top:16vh;
+left:3vh;
+}
+#t99{
+    position: relative;
+    width:40vh;
+    top:18vh;
+    left:3vh;
+}
+#t100{
+    position: relative;
+    height:20vh;
+    width:40vh;
+    top:16vh;
+    left:3vh;
+}
+#n15{
+    position: relative;
+    left: 3vh;
+}
+#t101{
+    position: relative;
+    width: 40vh;
+    left:3vh;
+}
+.sendf{
+    position: relative;
+    top:30vh;
+    left:-38vh;
+    width:40vh;
+    height: 4vh;
+    padding:6px;
+    background-color: purple;
+    color: aliceblue;
+    cursor: pointer;
+}
+.main10{
+    display: flex;
+    justify-content: center;
+    height:30vh;
+}
+.df{
+    display:flex;
+}
+.fd{
+    display: flex;
+}
+.w1{
+    padding: 20px;
+    position: relative;
+    left:-10vh;
+    top:40px;
+}
+.w2{
+    padding: 20px;
+    margin-top: 40px;
+}
+.w3{
+    padding: 20px;
+    position: relative;
+    left:10vh; 
+    top:40px;  
+}
